@@ -1,5 +1,5 @@
 def write
-  puts "Hello World! ... bitch!"
+  puts "Hello World!"
 end
 
 write
